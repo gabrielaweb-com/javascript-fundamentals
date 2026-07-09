@@ -91,4 +91,4 @@ Data & Artificial Intelligence Engineering Student
 
 ◦ LinkedIn: https://www.linkedin.com/in/gabriela-favaretto/
 
-◦ GitHub: https://github.com/gabrielaweb-com
+◦ GitHub: https://github.com/gabrielafavaretto
